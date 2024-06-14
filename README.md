@@ -3,11 +3,11 @@
 This is the repository that contains source code for the webpage of Depth Anything V2.
 
 If you find our work useful, please cite:
-```
+```bibtex
 @article{depth_anything_v2,
       title={Depth Anything V2}, 
       author={Yang, Lihe and Kang, Bingyi and Huang, Zilong and Zhao, Zhen and Xu, Xiaogang and Feng, Jiashi and Zhao, Hengshuang},
-      journal={arXiv preprint arXiv:},
+      journal={arXiv:2406.09414},
       year={2024}
 }
 
